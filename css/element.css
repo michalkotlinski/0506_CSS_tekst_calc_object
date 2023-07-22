@@ -1,7 +1,16 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
 .element {
     text-align: justify;
     text-indent: 50px;
     color: rebeccapurple;
     margin: auto;
-    max-width: 600px;
+    max-width: 300px;
+    object-fit: cover;
+    resize: both;
 }
