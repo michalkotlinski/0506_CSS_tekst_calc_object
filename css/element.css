@@ -1,5 +1,7 @@
 .element {
-    text-align: right;
+    text-align: justify;
+    text-indent: 50px;
+    text-shadow: 1px;
     color: rebeccapurple;
     margin: auto;
     max-width: 600px;
