@@ -10,7 +10,6 @@ html {
     text-indent: 50px;
     color: rebeccapurple;
     margin: auto;
-    width: 100% - 30px;
     max-width: 300px;
     object-fit: cover;
     resize: both;
